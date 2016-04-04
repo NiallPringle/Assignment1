@@ -1,0 +1,196 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	font-family:century gothic;
+}
+
+body{	margin:auto;
+	height:960px;
+	width:960px;
+
+	background-image:linear-gradient(to top, #585656, #000000)
+}
+
+header{
+	width: 906px;
+
+}
+	
+	
+.niallpringle{
+	
+
+	color:white;
+	font-size:60px;
+	font-family:century gothic;
+	}
+	
+	 .niallpringle:hover{
+		color:#EC6A05;
+	}
+
+
+nav{
+	
+	margin-left:120px;
+	
+	height:50px;
+	
+}
+
+
+
+li{
+	text-decoration:none;
+	display:inline;
+	padding-right: 50px;
+	font-size:20px;
+	font-family:century gothic;
+}
+
+a{
+	text-decoration:none;
+color:#EC6A05;
+
+}
+
+a:hover{
+	color:#FFFFFF;
+}
+	
+	
+#home{
+	margin-top:50px;
+	width:1100px;
+}
+
+#home_text{
+	width:450px;
+	display:inline-block;
+}
+
+#home_image{
+	margin-top:50px;
+	
+	float:right;
+	}
+	
+#niall_pringle{
+	float:left;
+	color:#FFFFFF;
+	font-family:century gothic;
+	font-size: 80px;
+	padding:0px;
+}
+
+#digital_media{
+color:#FFFFFF;
+	font-family:century gothic;
+	font-size: 40px;
+	clear:left;
+}
+
+span{
+	color:#EC6A05
+}
+
+#logos{
+	height:400px;
+	width:960px;
+	
+}
+
+#camera{
+	margin-right:190px;
+}
+
+footer{
+	height:50px;
+	width:960px;
+	position: fixed;
+	text-align:center;
+}
+
+footer p{
+	color:#FFFFFF;
+}
+
+#about{
+	position:fixed;
+	padding:10px;
+	width:920px;
+	border: 5px solid #EC6A05 ;
+	background-color:#FFFFFF;
+}
+
+#round{
+	width:400px;
+border-radius:150px;
+float:left;
+padding:10px;
+	
+}
+	h1{
+		color:#EC6A05;
+	}
+	
+	h4{
+		color:#EC6A05;
+	}
+	
+	.media{
+		width:960px;
+		
+	}
+	
+	.videos{
+		width:260px;
+		display:inline-block;
+		margin-left:5px;
+		margin-right:5px;
+		padding-left:5px;
+		padding-right:5px;
+		padding-top:5px;
+		vertical-align:top;
+		color:#EC6A05;
+		border: 5px solid #EC6A05;
+		background-color:#FFFFFF;
+		
+	}
+	
+	.photos{
+		width:440px;
+		display:inline-block;
+		z-index:-1;
+	border:5px solid #EC6A05;	
+	margin-top:5px;
+	margin-bottom:5px;
+
+
+}
+
+#poster{
+	height:660px;
+	margin:auto;
+	width:400px;
+	border:5px solid #EC6A05 ;
+	margin-top:10px;
+}
+
+#poster img{
+	height: 660px;
+	width:400px;
+	z-index:-1
+}
+
+#poster p {
+	z-index:1;
+	font-size:20px;
+	color:#FFFFFF;
+	position:absolute;
+	bottom:40px;
+	
+}
+
+
